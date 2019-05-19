@@ -1,0 +1,8 @@
+*.pyc
+*~
+__pycache__
+myvenv
+tensorflow2-gpuenv2
+db.sqilte3
+/static
+.DS_store
